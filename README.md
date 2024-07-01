@@ -5,6 +5,17 @@
 - Header
 - Login Form
 - Signuo form
+- Form Validation
+- useRef hook
+- Firebase setup
+- deploying app to production
+- Create signup in firebase
+- Implement signin unser api
+- created Redux Store with userSlice
+- Implemented signout
+- Update profile API call
+- Fetch movies from TMDB
+
 
 # Features
 - Login/Sign up
