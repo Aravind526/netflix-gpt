@@ -11,3 +11,7 @@ export const API_OPTIONS ={
   }
 
   export const IMG_CDN = "https://image.tmdb.org/t/p/w300"
+
+  export const BG_IMG = "https://assets.nflxext.com/ffe/siteui/vlv3/a56dc29b-a0ec-4f6f-85fb-50df0680f80f/9a0b3e37-2f17-459f-b90b-15e96c2085ee/US-en-20240617-popsignuptwoweeks-perspective_alpha_website_medium.jpg" 
+
+  export const SUPPORTED_LANGUAGES = [{identifier: "en", name:"English"},{identifier: "hindi", name:"Hindi"},{identifier: "spanish", name:"Spanish"}]
